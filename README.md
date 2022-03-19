@@ -14,3 +14,6 @@ Software descriptions:
 •	The Igor routine was developed to read the micro-time data from multiple ASCII files and correspondingly perform calculations of lifetime and steady state anisotropy.
 •	The calculated lifetime and steady state anisotropy were transferred to Prism 8 (Graph Pad) for graphs and statistical calculations.
 
+Data files: measure_c1.asc, measure_c2.asc, measure_c3.asc
+Background: dark_c1.asc
+Instructions: Steps of using Homo and Hetero-FRET fifo.docx
