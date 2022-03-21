@@ -17,3 +17,6 @@ Software descriptions:
 Data files: measure_c1.asc, measure_c2.asc, measure_c3.asc
 Background: dark_c1.asc
 Instructions: Steps of using Homo and Hetero-FRET fifo.docx. Note, use the latest version.
+
+Install times on normal Mac desktop are near instntaneous, as are run times.
+This software should work on user data obtained using Becker and Hickl FLIM software exported as an asc file.
