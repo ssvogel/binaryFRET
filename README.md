@@ -16,4 +16,4 @@ Software descriptions:
 
 Data files: measure_c1.asc, measure_c2.asc, measure_c3.asc
 Background: dark_c1.asc
-Instructions: Steps of using Homo and Hetero-FRET fifo.docx
+Instructions: Steps of using Homo and Hetero-FRET fifo.docx. Note, use the latest version.
